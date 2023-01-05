@@ -1,1 +1,1 @@
-print("Hallo Marlinda")
+print("Hallo GenomeScan")
